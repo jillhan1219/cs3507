@@ -1,0 +1,15 @@
+2024-05-29 12:52:26,005 - INFO - Namespace(bz=16, embedding='lpe', epochs=10, log_name='lpe.log', log_path='./logs/embedding/', save=False, tokenizer='gpt2')
+2024-05-29 12:58:14,925 - INFO - Namespace(bz=16, embedding='lpe', epochs=10, log_name='lpe.log', log_path='./logs/embedding/', save=False, tokenizer='gpt2')
+2024-05-29 13:06:21,617 - INFO - Epoch 0, Loss: 0.947351157717294
+2024-05-29 13:06:47,812 - INFO - Epoch 0, acc: 0.6578947368421053
+2024-05-29 13:15:21,463 - INFO - Epoch 1, Loss: 0.8081836515432603
+2024-05-29 13:15:47,669 - INFO - Epoch 1, acc: 0.7212790039615167
+2024-05-29 13:24:22,086 - INFO - Epoch 2, Loss: 0.7077538550729825
+2024-05-29 13:33:26,633 - INFO - Epoch 3, Loss: 0.6231958931181861
+2024-05-29 13:42:31,008 - INFO - Epoch 4, Loss: 0.549525844491693
+2024-05-29 13:51:37,364 - INFO - Epoch 5, Loss: 0.48754722459695665
+2024-05-29 14:00:38,770 - INFO - Epoch 6, Loss: 0.43568805598520804
+2024-05-29 14:09:38,573 - INFO - Epoch 7, Loss: 0.3924851792166331
+2024-05-29 14:18:37,695 - INFO - Epoch 8, Loss: 0.3564004404024111
+2024-05-29 14:27:35,251 - INFO - Epoch 9, Loss: 0.3259704201328535
+2024-05-29 14:36:34,310 - INFO - Epoch 10, Loss: 0.30020210565465216

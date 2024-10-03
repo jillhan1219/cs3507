@@ -1,0 +1,20 @@
+2024-06-07 07:27:11,566 - INFO - Namespace(attention='linear2', bz=16, embedding='spe', epochs=10, log_name='linear-sim.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-06-07 07:28:16,343 - INFO - Namespace(attention='linear2', bz=16, embedding='spe', epochs=10, log_name='linear-sim.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-06-07 07:28:44,452 - INFO - Namespace(attention='linear2', bz=16, embedding='spe', epochs=10, log_name='linear-sim.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-06-07 07:33:13,616 - INFO - Namespace(attention='linear2', bz=16, embedding='spe', epochs=10, log_name='linear-sim.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-06-07 07:39:04,530 - INFO - Epoch 0, Loss: 1.1121941372943007
+2024-06-07 07:39:20,097 - INFO - Epoch 0, acc: 0.40407470288624786
+2024-06-07 07:45:10,785 - INFO - Epoch 1, Loss: 1.041604283368768
+2024-06-07 07:45:26,486 - INFO - Epoch 1, acc: 0.5591397849462365
+2024-06-07 07:51:21,479 - INFO - Epoch 2, Loss: 0.9624715382605502
+2024-06-07 07:51:37,529 - INFO - Epoch 2, acc: 0.586870401810979
+2024-06-07 07:57:34,089 - INFO - Epoch 3, Loss: 0.890016328942408
+2024-06-07 07:57:50,009 - INFO - Epoch 3, acc: 0.5945104697226938
+2024-06-07 08:03:44,586 - INFO - Epoch 4, Loss: 0.8214067142608558
+2024-06-07 08:04:00,070 - INFO - Epoch 4, acc: 0.5990379173740804
+2024-06-07 08:09:52,481 - INFO - Epoch 5, Loss: 0.7560247537558179
+2024-06-07 08:16:00,299 - INFO - Epoch 6, Loss: 0.6946590801281753
+2024-06-07 08:22:29,395 - INFO - Epoch 7, Loss: 0.6381318618412191
+2024-06-07 08:29:38,349 - INFO - Epoch 8, Loss: 0.5865138418433227
+2024-06-07 08:36:52,539 - INFO - Epoch 9, Loss: 0.5403732794860437
+2024-06-07 08:44:01,898 - INFO - Epoch 10, Loss: 0.4992856319249226

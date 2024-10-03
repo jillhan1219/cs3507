@@ -1,0 +1,47 @@
+2024-05-30 08:49:12,236 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 08:49:40,885 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:11:16,429 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:27:18,725 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:28:47,122 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:30:11,518 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:45:13,873 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:50:26,635 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:53:19,897 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 09:58:02,825 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 10:02:36,411 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 10:03:38,117 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 10:05:30,100 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-05-30 10:11:45,806 - INFO - Epoch 0, Loss: 1.1148825243757268
+2024-05-30 10:12:03,356 - INFO - Epoch 0, acc: 0.4046406338426712
+2024-05-30 10:18:29,007 - INFO - Epoch 1, Loss: 1.1043307835862857
+2024-05-30 10:18:46,349 - INFO - Epoch 1, acc: 0.4202037351443124
+2024-05-30 10:25:16,385 - INFO - Epoch 2, Loss: 1.0994292667058256
+2024-05-30 10:32:03,814 - INFO - Epoch 3, Loss: 1.0969091336198402
+2024-05-30 10:32:21,374 - INFO - Epoch 3, acc: 0.4312393887945671
+2024-05-30 10:38:51,388 - INFO - Epoch 4, Loss: 1.085989618107104
+2024-05-30 10:45:36,291 - INFO - Epoch 5, Loss: 1.072637358873354
+2024-05-30 10:45:53,648 - INFO - Epoch 5, acc: 0.4349179400113186
+2024-05-30 10:52:21,045 - INFO - Epoch 6, Loss: 1.0608676530726833
+2024-05-30 10:52:38,441 - INFO - Epoch 6, acc: 0.4567062818336163
+2024-05-30 10:59:07,097 - INFO - Epoch 7, Loss: 1.0497302987479429
+2024-05-30 11:05:55,256 - INFO - Epoch 8, Loss: 1.0392223209231348
+2024-05-30 11:12:42,870 - INFO - Epoch 9, Loss: 1.0295520154973958
+2024-05-30 11:19:30,909 - INFO - Epoch 10, Loss: 1.0207920026127555
+2024-06-07 04:46:03,894 - INFO - Namespace(attention='linear', bz=16, embedding='spe', epochs=10, log_name='linear-rnn.log', log_path='./logs/attention/', save=False, tokenizer='gpt2')
+2024-06-07 04:51:50,926 - INFO - Epoch 0, Loss: 1.1109709158210177
+2024-06-07 04:52:06,701 - INFO - Epoch 0, acc: 0.312110922467459
+2024-06-07 04:57:57,588 - INFO - Epoch 1, Loss: 1.1010721659806055
+2024-06-07 04:58:13,752 - INFO - Epoch 1, acc: 0.42303338992642897
+2024-06-07 05:04:08,734 - INFO - Epoch 2, Loss: 1.097131048286891
+2024-06-07 05:10:21,267 - INFO - Epoch 3, Loss: 1.0860468443478777
+2024-06-07 05:10:37,374 - INFO - Epoch 3, acc: 0.44623655913978494
+2024-06-07 05:16:32,984 - INFO - Epoch 4, Loss: 1.0718221109668367
+2024-06-07 05:16:49,121 - INFO - Epoch 4, acc: 0.45302773061686474
+2024-06-07 05:22:44,319 - INFO - Epoch 5, Loss: 1.0587635268744546
+2024-06-07 05:28:56,706 - INFO - Epoch 6, Loss: 1.0507815415651454
+2024-06-07 05:29:13,015 - INFO - Epoch 6, acc: 0.4541595925297114
+2024-06-07 05:35:08,055 - INFO - Epoch 7, Loss: 1.040512645714705
+2024-06-07 05:41:19,314 - INFO - Epoch 8, Loss: 1.0305412460415841
+2024-06-07 05:41:35,391 - INFO - Epoch 8, acc: 0.45444255800792305
+2024-06-07 05:47:27,274 - INFO - Epoch 9, Loss: 1.0213812795277941
+2024-06-07 05:53:33,652 - INFO - Epoch 10, Loss: 1.0132653906473041
